@@ -1,0 +1,14 @@
+#机器ip和密码
+[zabbix]
+10.1.18.114  ansible_ssh_user=root  ansible_ssh_pass="dev1234"
+10.1.18.115  ansible_ssh_user=root  ansible_ssh_pass="dev1234"
+10.1.18.132  ansible_ssh_user=root  ansible_ssh_pass="cicd@123"
+10.1.18.133  ansible_ssh_user=root  ansible_ssh_pass="cicd@123"
+10.1.18.134  ansible_ssh_user=root  ansible_ssh_pass="cicd@123"
+10.1.18.135  ansible_ssh_user=root  ansible_ssh_pass="cicd@123"
+10.1.33.105  ansible_ssh_user=root  ansible_ssh_pass="root@1234"
+10.1.31.40   ansible_ssh_user=root  ansible_ssh_pass="devadmin*!"
+10.1.17.180  ansible_ssh_user=root  ansible_ssh_pass="cicd@123"
+10.1.18.101  ansible_ssh_user=root  ansible_ssh_pass="root@123"
+10.1.29.161  ansible_ssh_user=root  ansible_ssh_pass="123456"
+
